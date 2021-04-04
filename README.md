@@ -1,4 +1,4 @@
-<h2>Hi, I'm Riley</h1>
+<h2>🙍‍♀️ Hi, I'm Riley</h2>
 <h3>Web Developer</h3>
 
 👩‍💻 Project
