@@ -19,3 +19,5 @@ Market Collie https://github.com/rectangle714/marketcollie_user
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>  
 
 ![Riley's github stats](https://github-readme-stats.vercel.app/api?username=yelin1106&show_icons=true)
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=yelin0309)](https://solved.ac/yelin0309)
