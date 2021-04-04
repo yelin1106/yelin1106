@@ -2,14 +2,9 @@
 <h3 align="center">Web Developer</h3>
 
 👩‍💻 Project
-- shopping mall\
-[Market Collie User](https://github.com/rectangle714/marketcollie_user)
-[Market Collie Manager](https://github.com/knewbean/marketcollie_manager)
-- Blog Service
-[Co-doing User](https://github.com/RG-RG/user)
-[Co-doing User](https://github.com/RG-RG/admin)
-- virtual Hotel
-[hotel LUNA](https://github.com/zwooo96/hotelluna)
+- shopping mall [Market Collie User](https://github.com/rectangle714/marketcollie_user) | [Market Collie Manager](https://github.com/knewbean/marketcollie_manager)
+- Blog Service [Co-doing User](https://github.com/RG-RG/user) | [Co-doing User](https://github.com/RG-RG/admin)
+- virtual Hotel [hotel LUNA](https://github.com/zwooo96/hotelluna)
 
 📚 Skills  
 프로젝트에 사용할 수 있습니다.  
