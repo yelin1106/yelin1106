@@ -3,8 +3,12 @@
 
 👩‍💻 Project
 - shopping mall [Market Collie User](https://github.com/rectangle714/marketcollie_user) | [Market Collie Manager](https://github.com/knewbean/marketcollie_manager)
-- Blog Service [Co-doing User](https://github.com/RG-RG/user) | [Co-doing User](https://github.com/RG-RG/admin)
+- Blog Service [Co-doing User](https://github.com/RG-RG/user) | [Co-doing Admin](https://github.com/RG-RG/admin)
 - virtual Hotel [hotel LUNA](https://github.com/zwooo96/hotelluna)
+
+📖 Algorithm
+- [Programmers](https://github.com/Oath-of-the-Peach-Garden/Guan-Yu)
+- [BOJ](https://github.com/Greek-and-Roman-God/Athena)
 
 📚 Skills  
 프로젝트에 사용할 수 있습니다.  
