@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Riley</h1>
-<h3 align="center">Web Developer</h3>
+<h2>Hi, I'm Riley</h1>
+<h3>Web Developer</h3>
 
 👩‍💻 Project
 - shopping mall [Market Collie User](https://github.com/rectangle714/marketcollie_user) | [Market Collie Manager](https://github.com/knewbean/marketcollie_manager)
